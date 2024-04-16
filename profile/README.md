@@ -11,7 +11,7 @@ As a group, we have meetings to discuss [AWS DeepRacer](https://aws.amazon.com/d
 ## What do you can find here?
 
 - [Class materials repo]()
-- [Class recorded]
+- [Class recorded]()
 
 
 ## Class Team 👨‍🏫
